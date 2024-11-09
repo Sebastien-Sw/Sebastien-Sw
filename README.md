@@ -1,3 +1,5 @@
+# Welcome!
+
 - 👋 Hi, I’m Sebastien,
 - 🌏 I'm Australian, and have been coding for 1 month.
 - 👀 I’m interested in cars, engineering and coding as well as spending time in nature.
@@ -10,4 +12,7 @@
 - ⚡ Fun fact: I am a car enthusiast, my favourite car is a BMW M4 Competition.
                 I watch Formula 1, WEC and WRC, and my favourite motorsport series is Formula 1, I follow Mclaren.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastien-Sw)](https://github.com/Sebastien-Sw/github-readme-stats)
+
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sebastien-Sw&show_icons=true&theme=github_dark_dimmed"/>
+
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastien-Sw&layout=compact&theme=github_dark_dimmed"/>
